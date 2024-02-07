@@ -1,5 +1,5 @@
 # 💫 About Me:
-                🔭HELLOW, WORLD!!!<br>{<br>   Sou estudante de análise e desenvolvimento de sistemas<br>👯 quero colaborar na area de desenvolvimento <br>🤝 disposto a ajudar e aprender no front-back-end<br>🌱 Estou a procura de estágio e oportunidades na area<br>}
+                🔭HELLOW, WORLD!!!<br><br>   Sou estudante de análise e desenvolvimento de sistemas<br>👯 quero colaborar na area de desenvolvimento <br>🤝 disposto a ajudar e aprender no front-back-end<br>🌱 Estou a procura de estágio e oportunidades na area<br>
 
 
 ## 🌐 Socials:
