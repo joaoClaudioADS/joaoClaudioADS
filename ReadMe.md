@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hello, World !!! me chamo joão e estudo (ADS)<br>👯Tenho disposição em ajudar e fazer parte de desenvolvimentos de aplicações<br>🤝 gosto de aprender e compartilhar o que sei<br>🌱 estudo front-back-end<br>💬 Tenho objetivo de ser um dev full stack<br>⚡ procuro estagios e oportunidades na area de desenvolvimento
+🔭Hello, World !!! me chamo joão e sou formado em (ADS)<br>👯Tenho disposição em ajudar e fazer parte de desenvolvimentos de aplicações<br>🤝 gosto de aprender e compartilhar o que sei<br>🌱 estudo front-back-end<br>💬 Tenho objetivo de ser um dev full stack<br>⚡ procuro estagios e oportunidades na area de desenvolvimento
 
 
 ## 🌐 Socials:
